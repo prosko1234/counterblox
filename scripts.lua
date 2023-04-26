@@ -16,3 +16,7 @@ end)
 MainSection:NewButton("NooVster", "simple script", function()
      loadstring(game:HttpGet(('https://raw.githubusercontent.com/NooVster/404/main/Source')))()
 end)
+
+MainSection:NewButton("Skin changer", "no visual", function()
+     loadstring(game:HttpGet(("https://raw.githubusercontent.com/prosko1234/skinchanger/main/skinchanger.lua"),true))()
+end)
