@@ -12,7 +12,3 @@ end)
 MainSection:NewButton("Anti kick", "nice script", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/prosko1234/antikick/main/antikick.lua"),true))()
 end)
-
-MainSection:NewButton("Noovster", "simple script", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/NooVster/404/main/Source"))()
-end)
