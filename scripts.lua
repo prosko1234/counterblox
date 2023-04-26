@@ -14,7 +14,7 @@ MainSection:NewButton("Anti kick", "nice script", function()
 end)
 
 MainSection:NewButton("NooVster", "simple script for CB:RO", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'),true))()
 end)
 
 MainSection:NewButton("Morph", "Troll people", function()
