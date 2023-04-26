@@ -13,12 +13,8 @@ MainSection:NewButton("Anti kick", "nice script", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/prosko1234/antikick/main/antikick.lua"),true))()
 end)
 
-MainSection:NewButton("King hub", "ButtonInfo", function()
-    loadstring(game:HttpGet(('https://pastebin.com/raw/R8QMbhzv')))()
-end)
-
-MainSection:NewButton("Ominous Vibe", "ButtonInfo", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/loadstring.lua"))()
+MainSection:NewButton("NooVster", "simple script for CB:RO", function()
+    loadstring(game:HttpGet(("https://raw.githubusercontent.com/NooVster/404/main/Source"))()
 end)
 
 MainSection:NewButton("Morph", "Troll people", function()
